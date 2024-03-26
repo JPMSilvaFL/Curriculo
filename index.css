@@ -6,7 +6,7 @@
 }
 .coluna2{
     margin: auto;
-    width: 50%;
+    width: 40%;
     float: right;
 }
 body{
@@ -32,4 +32,8 @@ p{
 }
 a{
     color: blue;
+}
+.img{
+    float: right;
+    width: 80px;
 }
